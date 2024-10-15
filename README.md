@@ -21,4 +21,61 @@ I'm a lead developer (GoLang) at APTrust (University of Virginia), helping highe
 ---
 [![](https://visitcount.itsvg.in/api?id=jayanthdeejay&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+## 📊 GitLab Activity Stats (Oct 2022 - Oct 2024)
+
+While working for ORA team at the **Bodleian Libraries**, **University of Oxford**, I contributed to a self-hosted GitLab instance between October 2022 and October 2024. Below are some of the key metrics from my activity:
+
+- **Total Events:** `3341`
+- **Total Commits Pushed:** `3554`
+- **Total Push Events:** `595`
+- **Issues Opened:** `238`
+- **Issues Closed:** `818`
+- **Merge Requests Opened:** `140`
+- **Merge Requests Accepted:** `54`
+- **Merge Requests Closed:** `18`
+- **Merge Requests Approved:** `6`
+- **Code Reviews Made:** `778`
+- **Wiki Pages Created:** `45`
+- **Wiki Pages Updated:** `116`
+- **Wiki Pages Destroyed:** `2`
+- **Milestones Opened:** `1`
+- **Work Items Opened:** `188`
+- **Work Items Closed:** `186`
+- **Projects Joined:** `4`
+- **Deleted Events:** `129`
+- **Projects Contributed To:** `26`
+
+### 📈 Activity Over Time
+
+#### **Monthly Activity**
+
+![Activity Over Time](images/activity_over_time.png)
+
+#### **Commits Pushed Over Time**
+
+![Commits Pushed Over Time](images/commits_pushed_over_time.png)
+
+#### **Code Reviews Over Time**
+
+![Code Reviews Over Time](images/code_reviews_over_time.png)
+
+### 🗓️ Daily Activity Calendar
+
+#### **2022**
+
+![Daily Activity Calendar 2022](images/daily_activity_2022.png)
+
+#### **2023**
+
+![Daily Activity Calendar 2023](images/daily_activity_2023.png)
+
+#### **2024**
+
+![Daily Activity Calendar 2024](images/daily_activity_2024.png)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=jayanthdeejay&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
