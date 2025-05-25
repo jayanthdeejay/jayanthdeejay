@@ -1,3 +1,5 @@
+<!--
+
 ### 💫 About Me:
 I'm a lead developer (GoLang) at APTrust (University of Virginia), helping higher education institutions preserve cultural and scholarly heritage for future generations.
 
@@ -79,3 +81,4 @@ While working for ORA team at the **Bodleian Libraries**, **University of Oxford
 [![](https://visitcount.itsvg.in/api?id=jayanthdeejay&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+-->
