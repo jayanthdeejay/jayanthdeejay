@@ -1,5 +1,5 @@
 ### 💫 About Me:
-👋 **Hi, I’m Jay (MBCS)** — a research-minded software engineer who builds open-source infrastructure for universities and non-profits.    
+👋 **Hi, I’m Jay (MBCS)** — a research-minded software engineer who builds open-source infrastructure and applications for universities and non-profits.    
 🔧  Rails • Go • Python • Docker/K8s • CI/CD — with a focus on privacy, reliability, and clean documentation.    
 
 
